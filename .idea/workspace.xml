@@ -4,36 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f56f29-8c77-499f-8337-3e9a259ed0db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ImageCaption/App.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ImageCaptioning/Improved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ImageCaptioning/Streamlit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PeopleCounter/.idea/PeopleCounter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PeopleCounter/Devin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PeopleCounter/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/.idea/PixelTales.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PixelTales/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TelegramDeals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TelSend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle/.idea/Turtle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle/another_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ImageCaption/.idea/ImageCaption.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageCaption/.idea/ImageCaption.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ImageCaption/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageCaption/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ImageCaption/ImageCaption.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ImageCaption/ImageCaption.py" afterDir="false" />
+    <list default="true" id="99f56f29-8c77-499f-8337-3e9a259ed0db" name="Changes" comment="m">
+      <change afterPath="$PROJECT_DIR$/TestSend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelSend.py" beforeDir="false" afterPath="$PROJECT_DIR$/TelSend.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +22,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Theagentvikram"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Theagentvikram/ImageCaptioning.git",
+    "accountId": "260040f0-1fa7-4bba-9be9-470b66ab73f5"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -62,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.TelSend.executor": "Run",
+    "Python.TestSend.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "S:/PycharmProjects/PycharmProjects/TelegramDeals",
@@ -94,14 +87,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726902656844</updated>
-      <workItem from="1726902658313" duration="997000" />
+      <workItem from="1726902658313" duration="2160000" />
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <option name="closed" value="true" />
+      <created>1726903828575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726903828575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m" />
+    <option name="LAST_COMMIT_MESSAGE" value="m" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TelegramDeals$TelSend.coverage" NAME="TelSend Coverage Results" MODIFIED="1726903553389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TelegramDeals$TestSend.coverage" NAME="TestSend Coverage Results" MODIFIED="1726904075851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TelegramDeals$TelSend.coverage" NAME="TelSend Coverage Results" MODIFIED="1726904136355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
